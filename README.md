@@ -2,8 +2,10 @@
 
 <p align="center">I am a self taught **Web Developer** form India </p>
 <p align="center">
-    <a herf="#"><img width="30" src="img/portfolio.png" alt="Mater"></a>
-    <a herf="#"><img width="30" src="img/facebook.png" alt="Material Bread logo"></a>
+    <a herf="#"><img width="30" src="img/portfolio.png" alt="subirKumar"></a>
+    <a herf="#"><img width="30" src="img/linkedin.png" alt="Linkedin"></a>
+    <a herf="#"><img width="30" src="img/facebook.png" alt="Facebook"></a>
+    <a herf="#"><img width="30" src="img/gmail.png" alt="Gmail"></a>
 </p>
 
 
