@@ -22,7 +22,7 @@
 
 <img width="40" src="img/html5.png" alt="HTML5" title="HTML5">&nbsp;&nbsp;
 <img width="40" src="img/css3.png" alt="CSS3" title="CSS3">&nbsp;&nbsp;
-<img width="40" src="img/javascript.png" alt="JavaScript" title="JavaScript">.
+<img width="40" src="img/javascript.png" alt="JavaScript" title="JavaScript">
 
 <u style="text-underline-offset:3px;">**Tools Knowledge :--**</u>
 
