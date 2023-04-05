@@ -3,16 +3,13 @@
 <p align="center" style="font-size:1.5rem">I am a self taught <b>Web Developer</b> form India. </p>
 
 <br>
-<p style="float:left; margin-top:5%">
+<p align="center">
     <a herf="#"><img width="40" src="img/portfolio.png" alt="subirKumar"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/linkedin.png" alt="Linkedin"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/facebook.png" alt="Facebook"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/gmail.png" alt="Gmail"></a>&nbsp;&nbsp;
 </p>
 
-<p style="float:right: " align="right">
-    <a herf="#"><img width="200"  src="img/top11.png" alt="subirKumar"></a>&nbsp;&nbsp;
-</p>
 
 
 * * *
