@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-    <a herf="#"><img width="40" src="img/portfolio.png" alt="subirKumar"></a>&nbsp;&nbsp;
+    <a herf="https://subirkumarpratihar.github.io/subirKumar/"><img width="40" src="img/portfolio.png" alt="subirKumar"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/linkedin.png" alt="Linkedin"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/facebook.png" alt="Facebook"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/gmail.png" alt="Gmail"></a>&nbsp;&nbsp;
