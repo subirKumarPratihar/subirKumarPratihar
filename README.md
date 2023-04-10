@@ -3,7 +3,9 @@
 <p align="center" style="font-size:1.5rem">I am a self taught <b>Web Developer</b> form India. </p>
 
 <br>
+
 [a relative link](other_file.md)
+
 <p align="center">
     <a herf="https://subirkumarpratihar.github.io/subirKumar/"><img width="40" src="img/portfolio.png" alt="subirKumar"></a>&nbsp;&nbsp;
     <a herf="#"><img width="40" src="img/linkedin.png" alt="Linkedin"></a>&nbsp;&nbsp;
