@@ -4,7 +4,7 @@
 
 <br>
 
-[<img width="40" src="img/portfolio.png" alt="subirKumar">](other_file.md)
+[<img width="40" src="img/portfolio.png" alt="subirKumar">](https://subirkumarpratihar.github.io/subirKumar/)
 
 <p align="center">
     <a herf="https://subirkumarpratihar.github.io/subirKumar/"><img width="40" src="img/portfolio.png" alt="subirKumar"></a>&nbsp;&nbsp;
