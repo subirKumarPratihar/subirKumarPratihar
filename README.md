@@ -24,6 +24,10 @@
 <img width="40" src="img/css3.png" alt="CSS3" title="CSS3">&nbsp;&nbsp;
 <img width="40" src="img/javascript.png" alt="JavaScript" title="JavaScript">
 
+<u style="text-underline-offset:3px;">**Framework Knowledge :--**</u>
+
+<img width="40" src="img/bootstrap.png" alt="Bootstrap" title="Bootstrap">&nbsp;&nbsp;
+
 <u style="text-underline-offset:3px;">**Tools Knowledge :--**</u>
 
 <img width="40" src="img/vs code.png" alt="VS Code" title="VS Code">&nbsp;&nbsp;
@@ -40,6 +44,6 @@
 <h2>🌱 I'm currently learning...</h1> 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="60" src="img/bootstrap.png" alt="Bootstrap" title="Bootstrap" align="centr">&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="60" src="img/C.png" alt="C" title="C" align="centr">&nbsp;&nbsp;
 
 
